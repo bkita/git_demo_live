@@ -10,6 +10,7 @@ public class BaseTest {
 
     // Base URL
     protected static final String BASE_URL = "http://localhost:3000/";
+    protected static final String USERS = "users";
 
     protected static RequestSpecBuilder reqBuilder;
     protected static RequestSpecification reqSpec;
